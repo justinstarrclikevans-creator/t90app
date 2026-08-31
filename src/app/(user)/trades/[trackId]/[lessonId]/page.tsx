@@ -11,7 +11,8 @@ import {
   Award, 
   ArrowRight,
   BookOpen,
-  Sparkles
+  Sparkles,
+  ExternalLink
 } from "lucide-react";
 import { getTradeTrack, getTradeLesson } from "@/lib/data/trades-modules";
 import { cn } from "@/lib/utils";
@@ -134,14 +135,28 @@ export default function TradeLessonPage() {
         </div>
 
         {/* Video Player */}
-        <div className="bg-slate-900 rounded-3xl overflow-hidden shadow-lg border border-slate-800 aspect-video relative">
-          <iframe
-            src={lesson.videoUrl}
-            title={lesson.title}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            className="w-full h-full border-0"
-          />
+        <div className="space-y-2">
+          <div className="bg-slate-900 rounded-3xl overflow-hidden shadow-lg border border-slate-800 aspect-video relative">
+            <iframe
+              src={lesson.videoUrl}
+              title={lesson.title}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+              className="w-full h-full border-0"
+            />
+          </div>
+          <div className="flex justify-end px-2">
+            <a
+              href={lesson.videoUrl.replace("/embed/", "/watch?v=").replace("youtube-nocookie.com", "youtube.com")}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-blue-600 hover:text-blue-800 font-semibold inline-flex items-center gap-1 py-1"
+            >
+              <span>Video not loading? Open directly on YouTube</span>
+              <ExternalLink size={12} />
+            </a>
+          </div>
         </div>
 
         {/* Safety Tip Alert */}

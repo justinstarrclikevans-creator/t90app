@@ -48,7 +48,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Personal Protective Equipment (PPE)",
         description: "Understand the five essential pieces of PPE: hard hats, eye protection, high-vis vests, steel-toe boots, and hearing protection.",
         durationMinutes: 12,
-        videoUrl: "https://www.youtube.com/embed/S_7b7pS6Zk8",
+        videoUrl: "https://www.youtube-nocookie.com/embed/NV2cNmfK8_Y",
         skillsCommonsRef: "DOL TAACCCT Safety Series #101",
         safetyTip: "Always inspect your hard hat and safety glasses for cracks or damage before stepping onto the jobsite.",
         keyTakeaways: [
@@ -82,7 +82,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Ladder & Fall Safety (The 4-to-1 Rule)",
         description: "Learn how to inspect, set up, and safely climb extension and step ladders without tipping.",
         durationMinutes: 15,
-        videoUrl: "https://www.youtube.com/embed/jZzS2qgZ0Uo",
+        videoUrl: "https://www.youtube-nocookie.com/embed/WPXagf_UiLE",
         skillsCommonsRef: "DOL Construction Fall Prevention 102",
         safetyTip: "Always maintain 3 points of contact (two hands and a foot, or two feet and a hand) while climbing any ladder.",
         keyTakeaways: [
@@ -111,7 +111,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Hazard Communication & Safety Data Sheets (SDS)",
         description: "How to read chemical warning pictograms and look up chemical safety sheets on the job.",
         durationMinutes: 10,
-        videoUrl: "https://www.youtube.com/embed/2_XzXg2S9eQ",
+        videoUrl: "https://www.youtube-nocookie.com/embed/_yWF-w3CwmU",
         skillsCommonsRef: "OSHA GHS HazCom Module",
         safetyTip: "Never mix cleaning chemicals or solvents unless explicitly trained and authorized.",
         keyTakeaways: [
@@ -149,7 +149,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Reading a Tape Measure & Jobsite Math",
         description: "Learn how to read 1/2, 1/4, 1/8, and 1/16 inch marks on a tape measure and avoid costly miscuts.",
         durationMinutes: 14,
-        videoUrl: "https://www.youtube.com/embed/zR2XoQ0RjY8",
+        videoUrl: "https://www.youtube-nocookie.com/embed/DqKIVmu6grM",
         skillsCommonsRef: "Carpentry Apprenticeship Track - SkillsCommons",
         safetyTip: "Control the tape when retracting — never let the metal hook slam back into the casing.",
         keyTakeaways: [
@@ -178,7 +178,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Hand & Power Tool Essentials (Circular Saw)",
         description: "Safe operation of circular saws, drills, impact drivers, and miter saws.",
         durationMinutes: 18,
-        videoUrl: "https://www.youtube.com/embed/9g3yN-eW8Qk",
+        videoUrl: "https://www.youtube-nocookie.com/embed/S7QOhRRlr6A",
         skillsCommonsRef: "SkillsCommons Power Tool Safety Module #204",
         safetyTip: "Never stand directly in line behind a circular saw blade to avoid injury from kickback.",
         keyTakeaways: [
@@ -205,7 +205,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Wall Framing & 2x4 Layout",
         description: "Learn bottom plates, top plates, studs, headers, and assembling a 2x4 wall frame.",
         durationMinutes: 20,
-        videoUrl: "https://www.youtube.com/embed/p1m2e3v4k5l",
+        videoUrl: "https://www.youtube-nocookie.com/embed/Bjuwpo9d3cQ",
         skillsCommonsRef: "Residential Construction Carpentry #301",
         safetyTip: "Always wear safety glasses and ear protection when using pneumatic framing nail guns.",
         keyTakeaways: [
@@ -243,7 +243,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Electrical Safety & Lockout/Tagout (LOTO)",
         description: "How to de-energize circuits, use non-contact voltage testers, and ensure 100% zero voltage before touching wires.",
         durationMinutes: 15,
-        videoUrl: "https://www.youtube.com/embed/7Kk3j2p1q0w",
+        videoUrl: "https://www.youtube-nocookie.com/embed/HcvJ_Xp-ofo",
         skillsCommonsRef: "Electrical Trades Foundation - LOTO Series",
         safetyTip: "Always test your voltage tester on a known live circuit first, then test your dead circuit, then re-test on live to confirm tester works (Live-Dead-Live method).",
         keyTakeaways: [
@@ -270,7 +270,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Understanding NM-B (Romex) Cable & Colors",
         description: "Learn wire color coding (Black, White, Bare/Green) and matching wire gauge (14 AWG vs 12 AWG) to circuit breaker sizes.",
         durationMinutes: 16,
-        videoUrl: "https://www.youtube.com/embed/2_XzXg2S9eQ",
+        videoUrl: "https://www.youtube-nocookie.com/embed/hFaxkK7348Y",
         skillsCommonsRef: "Residential Wiring 101 - SkillsCommons",
         safetyTip: "Never put 14-gauge wire on a 20-amp circuit breaker. 14 AWG is rated for 15 amps maximum.",
         keyTakeaways: [
@@ -316,7 +316,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Modern Pipe Materials: PVC, Copper & PEX",
         description: "Compare water supply piping (PEX & Copper) vs drainage piping (PVC & ABS) and how to make watertight joints.",
         durationMinutes: 14,
-        videoUrl: "https://www.youtube.com/embed/3L1x2y4Z5w6",
+        videoUrl: "https://www.youtube-nocookie.com/embed/grSlImofpe4",
         skillsCommonsRef: "Plumbing Apprenticeship Series - DOL TAACCCT",
         safetyTip: "Always work in a well-ventilated area when using purple PVC primer and solvent cement.",
         keyTakeaways: [
@@ -338,7 +338,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Replacing Faucets & Shutoff Valves",
         description: "How to safely shut off main water supply, replace quarter-turn angle stops, and install flexible braided supply lines.",
         durationMinutes: 12,
-        videoUrl: "https://www.youtube.com/embed/4M2x3y4Z5w7",
+        videoUrl: "https://www.youtube-nocookie.com/embed/SPDZ1yksG90",
         skillsCommonsRef: "Basic Residential Maintenance #201",
         safetyTip: "Always verify the water is completely shut off and relieve pressure at the lowest faucet before disconnecting supply valves.",
         keyTakeaways: [
@@ -376,7 +376,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "How Heating & Cooling Works (The Heat Transfer Cycle)",
         description: "Learn the four core components of an AC system: Compressor, Condenser, Metering Device, and Evaporator.",
         durationMinutes: 16,
-        videoUrl: "https://www.youtube.com/embed/5N3x4y5Z6w8",
+        videoUrl: "https://www.youtube-nocookie.com/embed/nVo0GuNm3Ek",
         skillsCommonsRef: "HVAC Technician Core Skills - SkillsCommons",
         safetyTip: "Never attempt to vent or handle refrigerants without EPA Section 608 certification — refrigerants can cause severe freeze burns.",
         keyTakeaways: [
@@ -414,7 +414,7 @@ export const TRADE_TRACKS: TradeTrack[] = [
         title: "Accessing Free Home Depot Trade Certifications",
         description: "Step-by-step walkthrough on how to sign up for Home Depot Pro Academy and earn free certificates you can put on your resume.",
         durationMinutes: 10,
-        videoUrl: "https://www.youtube.com/embed/6O4x5y6Z7w9",
+        videoUrl: "https://www.youtube-nocookie.com/embed/MPXtE6qjWG4",
         skillsCommonsRef: "Turn90 Partner Credential Walkthrough",
         safetyTip: "Home Depot Pro certifications are recognized by thousands of construction and trade employers nationwide.",
         keyTakeaways: [
